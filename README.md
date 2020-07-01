@@ -1,4 +1,4 @@
-# Pre-Session-Exercise
+# Conversion Rate Prediction
 Problem Statement - Build a model to predict conversion rate 
 <br> Data utilised - Conversion Rate table
 <br>Columns:
