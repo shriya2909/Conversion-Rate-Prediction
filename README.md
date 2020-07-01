@@ -1,6 +1,6 @@
 # Pre-Session-Exercise
 Problem Statement - Build a model to predict conversion rate 
-Data - conversion_data
+<br> Data utilised - Conversion Rate table
 Columns:
 ● country - user country based on the IP address
 ● age - user age. Self-reported at sign-in step.
