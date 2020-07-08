@@ -1,4 +1,4 @@
-# Conversion Rate Prediction
+# Conversion Rate Predictor
 Problem Statement - Build a model to predict conversion rate 
 <br> Data utilised - Conversion Rate table
 <br>Columns:
